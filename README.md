@@ -35,7 +35,6 @@ As a Full Stack Developer, I'm not just coding; I'm shaping the next-gen tech ta
 My canvas is painted with a palette of Full Stack technologies, mastering the art of frontend finesse and backend brilliance. Let's build the future, one line of code at a time! 💡✨
 
 ## 🌟 Projects
-\
 **1. Inventory Management and Order Fulfilment System**
 \
 (A typical web app to
@@ -90,7 +89,32 @@ functions)
 ![warehouse_01](https://github.com/SahebRana/SahebRana/assets/66863042/13a61d41-9fcc-4c0e-aec3-74031de3c821)
 ![warehouse_03](https://github.com/SahebRana/SahebRana/assets/66863042/bf6f8c8d-c1bd-4b21-9f6f-c4fc0b086459)
 
-
+## 💻 Work Experience (4+ Years)
+**Full-stack developer - Talent Pro, Dhaka**
+\
+AUG 2021 – JUL 2023 (2.5 YEARS)
+\
+● **Responsibility:** API creation, Database schema design, Frontend
+development, R&D of new features, Unit Testing, Bug Fixing.
+\
+● **Technology Used:** PHP, Laravel, Node JS, React JS, React Native,
+Storybook, Jest.
+\
+● **Key Achievements:** Component-driven development, Worked closely
+with the product team on the scope of future projects and innovations.
+\
+\
+**Web Developer - Fiverr, Outsourcing**
+\
+MAY 2020 – JUL 2021 (1 YEAR)
+\
+● **Responsibility:** Design requirements, Design Review, document writing,
+Database Design, Bug Fixing, and Deployment.
+\
+● **Technology Used:** PHP, JavaScript, jQuery, WordPress, MySQL, AWS.
+\
+● **Key Achievements:** Server Management, Security, and Performance
+Optimization up to 35%.
 
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
