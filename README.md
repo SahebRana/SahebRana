@@ -174,6 +174,25 @@ Institute: Bangabandu Hi-Tech Park, Rajshahi
 Duration: 3 Months (Sep 2019 – Nov 2019)
 \
 Learning details: Microprocessor, Embedded system, Arduino, IoT
+\
+\
+**Certification:**
+\
+React - HackerRank
+\
+Problem Solving - HackerRank.
+
+## 🏆 Special Achievements
+1. Tech-genius Award 2022 from Talent Pro (Last working company).
+
+2. Problem Solving (Basic) Certification: https://www.hackerrank.com/certificates/9b5f89faefff
+
+3. 50 Days Badge 2022 in LeetCode: https://leetcode.com/sahebrana
+
+4. 3rd position in Intra-Department Programming Contest 2017.
+
+5. Government Scholarship in High school and Primary school.
+
 
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
