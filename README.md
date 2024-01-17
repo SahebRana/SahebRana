@@ -85,6 +85,10 @@ functions)
 - MySQL
 
 ## 🛠️ Screenshots of Project
+![fitness_01](https://github.com/SahebRana/SahebRana/assets/66863042/50019a85-1ed4-4aeb-9303-aa835c7a8630)
+![inventory_01](https://github.com/SahebRana/SahebRana/assets/66863042/27127439-4903-4d02-93dd-e9bd49b09648)
+![warehouse_01](https://github.com/SahebRana/SahebRana/assets/66863042/13a61d41-9fcc-4c0e-aec3-74031de3c821)
+![warehouse_03](https://github.com/SahebRana/SahebRana/assets/66863042/bf6f8c8d-c1bd-4b21-9f6f-c4fc0b086459)
 
 
 
