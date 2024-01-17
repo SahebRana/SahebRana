@@ -6,7 +6,9 @@
 - 🤔 I’m looking for help with practicing the Japanese language speaking
 - 💬 Ask me about JavaScript, React.Js and Python
 - 📫 How to reach me **m.sahebrana@gmail.com**
-- ⚡ Fun fact: 🚀 Full-stack sorcerer turning caffeine into code by day, and dreams into digital reality by night. 💻✨ #WebDevWizard
+- ⚡ Fun fact: 🚀 Full-stack sorcerer turning caffeine into code by day, and dreams into digital reality by night. 💻✨
+
+  ![](https://komarev.com/ghpvc/?username=SahebRana&color=blue)
 
 <h2 align="left">📇 Connect with me</h2>
 <p align="left">
