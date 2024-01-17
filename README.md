@@ -12,8 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sahebrana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahebrana/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_sahebrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_sahebrana" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Contact.SahebRana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_sahebrana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahebrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahebrana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Contact.SahebRana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_sahebrana" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">🤹🏻 Languages and Tools</h2>
