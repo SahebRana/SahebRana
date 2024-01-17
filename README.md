@@ -3,7 +3,7 @@
 
 # Current Overview
 - 🌱 I’m currently learning New Languages
-- 🤔 I’m looking for help with OOP using JAVA and Python
+- 🤔 I’m looking for help with practicing the Japanese language speaking
 - 💬 Ask me about JavaScript, React.Js and Python
 - 📫 How to reach me **m.sahebrana@gmail.com**
 - ⚡ Fun fact: 🚀 Full-stack sorcerer turning caffeine into code by day, and dreams into digital reality by night. 💻✨ #WebDevWizard
