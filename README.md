@@ -34,6 +34,9 @@ As a Full Stack Developer, I'm not just coding; I'm shaping the next-gen tech ta
 ## 💻 Tech Canvas:
 My canvas is painted with a palette of Full Stack technologies, mastering the art of frontend finesse and backend brilliance. Let's build the future, one line of code at a time! 💡✨
 
+## 📈 Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahebRana&theme=dracula)](https://git.io/streak-stats)
+
 ## 🌟 Projects
 **1. Inventory Management and Order Fulfilment System**
 \
