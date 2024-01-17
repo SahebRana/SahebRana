@@ -135,6 +135,19 @@ Database Design, Bug Fixing, and Deployment.
 ● **Key Achievements:** Server Management, Security, and Performance
 Optimization up to 35%.
 
+## 🎓 Education
+**Bachelor of Science (Engineering)**
+\
+**Institute:** University of Rajshahi, Bangladesh
+\
+**Department:** Information and Communication Engineering
+\
+**Pass Year:** 2020
+\
+**Major:** Java and Networking Programming, Artificial Intelligence, Computer
+Architecture, Computer Networks, Data Structure and Algorithm,
+Microprocessor, Cryptography, Database Management, Image Processing.
+
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
 
