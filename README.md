@@ -102,6 +102,25 @@ Storybook, Jest.
 \
 ● **Key Achievements:** Component-driven development, Worked closely
 with the product team on the scope of future projects and innovations.
+• **Requirement Collection:** Helping product manager in
+requirement collection.
+\
+• **Developing API:** Developing REST API with proper
+documentation.
+\
+• **UI Components creation:** Creating reusable UI
+components and including them in a component library.
+\
+• **Implementation of UI:** Integrating APIs with UI
+components.
+\
+• **Database schema design:** Database schema design and
+normalization.
+\
+• **Testing:** Unit testing by jest.
+\
+• **Bug fixing:** Detecting bugs and fixing them according to
+requirements.
 \
 \
 **Web Developer - Fiverr, Outsourcing**
