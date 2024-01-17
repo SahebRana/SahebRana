@@ -196,8 +196,16 @@ Problem Solving - HackerRank.
 
 5. Government Scholarship in High school and Primary school.
 
+## 💻 Coding Contest Participation Record
+- [Name of the coding contest], [Rank], [Year]
+- [Name of the coding contest], [Rank], [Year]
 
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
+
+# 🏷️ Video Resources
+![[maxresdefault](https://www.youtube.com/live/nbzvNKAd1As?si=2YjWRtRNBjFvRKq_)](https://github.com/SahebRana/SahebRana/assets/66863042/5a68a895-1fb9-4efa-a86b-8cbf9fb1bec1)
+
+![[maxresdefault (1)](https://youtu.be/eWRfhZUzrAc?si=-qLgICRqs5KEKmau)](https://github.com/SahebRana/SahebRana/assets/66863042/11f77d33-c324-42f7-b434-f19be4e4a15a)
 
 
