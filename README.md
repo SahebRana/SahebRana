@@ -148,6 +148,33 @@ Optimization up to 35%.
 Architecture, Computer Networks, Data Structure and Algorithm,
 Microprocessor, Cryptography, Database Management, Image Processing.
 
+## 📚 Training
+**Web Design and Development**
+\
+Institute: ICT Division, BD
+\
+Duration: 2 Months (Jul 2020 – Aug 2020)
+\
+Learning details: HTML, JavaScript, jQuery, CSS, Bootstrap, PHP, WordPress
+\
+\
+**Augmented Reality, Virtual Reality, Mixed Reality**
+\
+Institute: Bangabandu Hi-Tech Park, Rajshahi
+\
+Duration: 3 Months (Jan 2018 – Mar 2018)
+\
+Learning details: Basic of AR VR MR, C#, Unity, Game development
+\
+\
+**Robotics and Internet of Things**
+\
+Institute: Bangabandu Hi-Tech Park, Rajshahi
+\
+Duration: 3 Months (Sep 2019 – Nov 2019)
+\
+Learning details: Microprocessor, Embedded system, Arduino, IoT
+
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
 
