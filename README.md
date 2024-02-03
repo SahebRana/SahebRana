@@ -1,6 +1,5 @@
-![18_Rana ai](https://github.com/SahebRana/SahebRana/assets/66863042/15e7e3cc-47ff-4774-90e3-abe0399903e9)
 <h1 align="center">Hi 👋, I'm Saheb Rana</h1>
-<h3 align="center">A passionate Software Engineer | Fullstack Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 ## 🔥 Current Overview
 - 🌱 I’m currently learning New Languages
@@ -9,7 +8,7 @@
 - 📫 How to reach me **m.sahebrana@gmail.com**
 - ⚡ Fun fact: 🚀 Full-stack sorcerer turning caffeine into code by day, and dreams into digital reality by night. 💻✨
 
-  ![](https://komarev.com/ghpvc/?username=SahebRana&color=blue)
+  ![](https://komarev.com/ghpvc/?username=SahebRana&color=brightgreen&style=for-the-badge)
 
 <h2 align="left">📇 Connect with me</h2>
 <p align="left">
@@ -30,7 +29,7 @@
 Currently, I'm deep into the world of Full Stack development. Serving as an ICT instructor for the BJET Project (Bangladesh Japan IT Engineer Training Program) and BJIT Academy, a global standard training initiative. Simultaneously, I wear the hat of a Senior Project Manager at BJIT Limited, leading diverse software development projects.
 
 ## 🚀 My Role:
-As a Full Stack Developer, I'm not just coding; I'm shaping the next-gen tech talent through BJET and BJIT Academy. In my managerial role, I orchestrate software projects, ensuring seamless development and delivery. From providing top-notch technology training to steering software development endeavors, every day is a dynamic journey in the digital realm.
+As a Software Engineer, I'm not just coding; I'm shaping the next-gen tech talent through BJET and BJIT Academy. In my managerial role, I orchestrate software projects, ensuring seamless development and delivery. From providing top-notch technology training to steering software development endeavors, every day is a dynamic journey in the digital realm.
 
 ## 💻 Tech Canvas:
 My canvas is painted with a palette of Full Stack technologies, mastering the art of frontend finesse and backend brilliance. Let's build the future, one line of code at a time! 💡✨
@@ -41,11 +40,7 @@ My canvas is painted with a palette of Full Stack technologies, mastering the ar
 ## 🌟 Projects
 **1. Inventory Management and Order Fulfilment System**
 \
-(A typical web app to
-manage and tracking of e-commerce orders of multiple platforms i.e., Shopify,
-Lazada, Shopee, etc. through API provided by the specific platform. It has
-another functionality to sync current stock with warehouse as well as
-inventories)
+(A typical web app to manage and tracking of e-commerce orders of multiple platforms i.e., Shopify, Lazada, Shopee, etc. through API provided by the specific platform. It has another functionality to sync current stock with warehouse as well as inventories)
 \
 \
 **Technology used:**
@@ -60,9 +55,7 @@ inventories)
 \
 **2. Warehouse Management System**
 \
-(A mobile application to track products and
-provide logistic support in warehouses by barcode scanning. It also has a
-synchronization system with a third-party app.)
+(A mobile application to track products and provide logistic support in warehouses by barcode scanning. It also has a synchronization system with a third-party app.)
 \
 \
 **Technology used:**
@@ -76,9 +69,7 @@ synchronization system with a third-party app.)
 \
 **3. Fitness Course selling website**
 \
-(An ecommerce website to sell food plans and
-meal recipes. This website also has PDF file downloading and download limiting
-functions)
+(An ecommerce website to sell food plans and meal recipes. This website also has PDF file downloading and download limiting functions)
 \
 \
 **Technology used:**
@@ -87,16 +78,11 @@ functions)
 - JavaScript
 - MySQL
 
-## 🛠️ Screenshots of Project
-![fitness_01](https://github.com/SahebRana/SahebRana/assets/66863042/50019a85-1ed4-4aeb-9303-aa835c7a8630)
-![inventory_01](https://github.com/SahebRana/SahebRana/assets/66863042/27127439-4903-4d02-93dd-e9bd49b09648)
-![warehouse_01](https://github.com/SahebRana/SahebRana/assets/66863042/13a61d41-9fcc-4c0e-aec3-74031de3c821)
-![warehouse_03](https://github.com/SahebRana/SahebRana/assets/66863042/bf6f8c8d-c1bd-4b21-9f6f-c4fc0b086459)
-
-## 💻 Work Experience (4+ Years)
+<a style="text-align: right;" href="https://sahebrana.github.io/" target="_blank">more..</a>
+## 💻 Work Experience (3+ Years)
 **Full-stack developer - Talent Pro, Dhaka**
 \
-AUG 2021 – JUL 2023 (2.5 YEARS)
+AUG 2021 – JUL 2023 (2 YEARS)
 \
 ● **Responsibility:** API creation, Database schema design, Frontend
 development, R&D of new features, Unit Testing, Bug Fixing.
@@ -198,15 +184,20 @@ Problem Solving - HackerRank.
 5. Government Scholarship in High school and Primary school.
 
 ## 💻 Coding Contest Participation Record
-- [Name of the coding contest], [Rank], [Year]
-- [Name of the coding contest], [Rank], [Year]
+| Name of the coding contest | Rank | Year |
+| :---         |     ---: |          ---: |
+| B-JET 13th Batch Programming Contest | 5   | 2024 |
+| Weekly Coding Contest 332, LeetCode | 1478   | 2023 |
+| Intra-Department Programming Contest | 3   | 2017 |
+| Divide by Zero (Codeforces Round 399) | 1434   | 2017 |
+
 
 ## 🌐 Most used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
 
 # 🏷️ Video Resources
-![[maxresdefault](https://www.youtube.com/live/nbzvNKAd1As?si=2YjWRtRNBjFvRKq_)](https://github.com/SahebRana/SahebRana/assets/66863042/5a68a895-1fb9-4efa-a86b-8cbf9fb1bec1)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mYndTwxXq8?si=XuAHCkYskjFhnUAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![[maxresdefault (1)](https://youtu.be/eWRfhZUzrAc?si=-qLgICRqs5KEKmau)](https://github.com/SahebRana/SahebRana/assets/66863042/11f77d33-c324-42f7-b434-f19be4e4a15a)
+[Electronic Voting Machine Using Micro-controller](https://www.youtube.com/watch?v=8mYndTwxXq8)
 
 
