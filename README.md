@@ -196,7 +196,6 @@ Problem Solving - HackerRank.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahebrana&show_icons=true&locale=en&layout=compact" alt="sahebrana" /></p>
 
 # 🏷️ Video Resources
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mYndTwxXq8?si=XuAHCkYskjFhnUAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Electronic Voting Machine Using Micro-controller](https://www.youtube.com/watch?v=8mYndTwxXq8)
 
