@@ -78,7 +78,7 @@ My canvas is painted with a palette of Full Stack technologies, mastering the ar
 - JavaScript
 - MySQL
 
-<a style="text-align: right;" href="https://sahebrana.github.io/" target="_blank">more..</a>
+<a align="right" href="https://sahebrana.github.io/" target="_blank">more..</a>
 ## 💻 Work Experience (3+ Years)
 **Full-stack developer - Talent Pro, Dhaka**
 \
