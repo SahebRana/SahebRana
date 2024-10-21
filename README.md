@@ -29,8 +29,6 @@
 - 📫 How to reach me **m.sahebrana@gmail.com**
 - ⚡ Fun fact: 🚀 Full-stack sorcerer turning caffeine into code by day, and dreams into digital reality by night. 💻✨
 
-  ![](https://komarev.com/ghpvc/?username=SahebRana&color=brightgreen&style=for-the-badge)
-
 ## 📇 Connect with me
 
 <a href="https://linkedin.com/in/sahebrana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -241,3 +239,4 @@ Problem Solving - HackerRank.
 [Electronic Voting Machine Using Micro-controller](https://www.youtube.com/watch?v=8mYndTwxXq8)
 
 
+![](https://komarev.com/ghpvc/?username=SahebRana&color=brightgreen&style=for-the-badge)
